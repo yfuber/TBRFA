@@ -7,6 +7,12 @@ Science Advances-
 
 Deep Exploration of Random Forest Model Boosts the Interpretability of Machine Learning Studies of Complicated Immune Responses and Lung Burden of Nanoparticles. Fubo Yu et al.
 
+xxx.py: machine learning (RF, ANN, SVM, permutation test)
+
+MAIN.R : TBRFA analysis (figures and main analysis)
+
+
+
 #### Contribute
 
 Fubo Yu
@@ -18,3 +24,4 @@ measure_importance.R
 min_depth_distribution.R
 
 min_depth_interactions.R
+
