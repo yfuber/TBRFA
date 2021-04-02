@@ -11,4 +11,10 @@ Deep Exploration of Random Forest Model Boosts the Interpretability of Machine L
 
 Fubo Yu
 
-Based on R packages: "randomForestExplain"
+Based on R packages: "randomForestExplain" :
+
+measure_importance.R
+
+min_depth_distribution.R
+
+min_depth_interactions.R
