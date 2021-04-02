@@ -11,7 +11,7 @@ xxx.py: machine learning (RF, ANN, SVM, permutation test)
 
 MAIN.R : TBRFA analysis (figures and main analysis)
 
-
+*Feature interaction network needs to be completed in the GEPHI software.
 
 #### Contribute
 
